@@ -1,0 +1,15 @@
+{
+  "name": "feishu",
+  "version": "1.0.0",
+  "description": "Company Feishu (飞书/feishu.cn) integration for Claude — docs & sheets CRUD and tasks, via the official lark-cli running on a persistent dawn-vps.",
+  "author": {
+    "name": "hanami-ume",
+    "url": "https://github.com/hanami-ume"
+  },
+  "homepage": "https://github.com/hanami-ume/claude-feishu",
+  "repository": "https://github.com/hanami-ume/claude-feishu",
+  "license": "MIT",
+  "keywords": ["feishu", "飞书", "lark", "docs", "sheets", "tasks", "lark-cli", "dawn-vps"],
+  "skills": "./skills/",
+  "commands": "./commands/"
+}

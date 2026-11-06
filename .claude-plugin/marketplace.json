@@ -1,0 +1,13 @@
+{
+  "name": "claude-feishu",
+  "owner": {
+    "name": "hanami-ume"
+  },
+  "plugins": [
+    {
+      "name": "feishu",
+      "source": "./feishu",
+      "description": "Company Feishu (飞书/feishu.cn) integration — docs & sheets CRUD and tasks via the official lark-cli running on a persistent dawn-vps."
+    }
+  ]
+}
